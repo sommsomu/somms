@@ -1,0 +1,124 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Your branch is up to date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   Documents/PlayGit/checkgit/test.txt
+#
+# Changes not staged for commit:
+#	modified:   Documents/PlayGit/checkgit/test.txt
+#	modified:   mlops (untracked content)
+#
+# Untracked files:
+#	.anaconda/
+#	.astropy/
+#	.atom/
+#	.cache/
+#	.conda/
+#	.condarc
+#	.config/
+#	.continuum/
+#	.cookiecutter_replay/
+#	.cookiecutters/
+#	.gitconfig
+#	.idlerc/
+#	.ipynb_checkpoints/
+#	.ipython/
+#	.ivy2/
+#	.jdks/
+#	.jupyter/
+#	.keras/
+#	.lesshst
+#	.matplotlib/
+#	.python_history
+#	.spyder-py3/
+#	.ssh/
+#	.streamlit/
+#	.vscode/
+#	3D Objects/
+#	AppData/
+#	Contacts/
+#	Desktop/
+#	Documents/!qhlogs.doc
+#	Documents/.ipynb_checkpoints/
+#	Documents/99Acers Data/
+#	Documents/Adobe/
+#	Documents/Clickup/
+#	Documents/ComputerVisionTask/
+#	Documents/DSMP/
+#	Documents/Downloads/
+#	Documents/FINAL REPORT somashekhar.docx
+#	Documents/FilmoraScreen/
+#	Documents/Final PPT.pptx
+#	Documents/Lightshot/
+#	Documents/My Tableau Repository/
+#	Documents/PythonDS/
+#	Documents/Python_programming shar.ipynb
+#	Documents/Real Estate/
+#	Documents/ScreenRecorder/
+#	Documents/Sound recordings/
+#	Documents/WPS Cloud Files/
+#	Documents/WhatsApp Documents/
+#	Documents/Zoom/
+#	Documents/cache/
+#	Documents/desktop.ini
+#	Documents/juypterNotebooks/
+#	Documents/s.scriv/
+#	Documents/shikhaPassbook.jpg
+#	Documents/sp.scriv/
+#	Documents/vMixStorage/
+#	Documents/zomato dataset.zip
+#	Documents/~$Final PPT.pptx
+#	Documents/~$NAL REPORT.docx
+#	Downloads/
+#	Favorites/
+#	GitHubAssignment/
+#	IntelGraphicsProfiles/
+#	Links/
+#	Microsoft/
+#	MicrosoftEdgeBackups/
+#	Music/
+#	NTUSER.DAT
+#	NTUSER.DAT{6902dfd7-7212-11ed-81eb-a4bd26f1b8af}.TM.blf
+#	NTUSER.DAT{6902dfd7-7212-11ed-81eb-a4bd26f1b8af}.TMContainer00000000000000000001.regtrans-ms
+#	NTUSER.DAT{6902dfd7-7212-11ed-81eb-a4bd26f1b8af}.TMContainer00000000000000000002.regtrans-ms
+#	OneDrive/
+#	OpenVPN/
+#	PRCP_1017_Automobile_Imports_Price_Prediction.ipynb
+#	Pictures/
+#	PycharmProjects/
+#	Python Basics Data Analytics.ipynb
+#	Python practice.ipynb
+#	Saved Games/
+#	Searches/
+#	Tracing/
+#	Untitled.ipynb
+#	Untitled1.ipynb
+#	Untitled2.ipynb
+#	Untitled3.ipynb
+#	Untitled4.ipynb
+#	Untitled5.ipynb
+#	Untitled6.ipynb
+#	Videos/
+#	WPS Cloud Files/
+#	_viminfo
+#	anaconda3/
+#	anaconda4/
+#	dir
+#	logs/
+#	my example
+#	notebook.ipynb
+#	ntuser.dat.LOG1
+#	ntuser.dat.LOG2
+#	ntuser.ini
+#	perceptron.ipynb
+#	project 1.ipynb
+#	python DS.ipynb
+#	python essential 3.ipynb
+#	seaborn-data/
+#	test01/
+#	venv/
+#
